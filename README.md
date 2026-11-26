@@ -20,3 +20,8 @@
 - lizard
 - cpd
 - flask8
+
+## 개발
+### 코딩 규칙
+### branch 전략
+### ...
